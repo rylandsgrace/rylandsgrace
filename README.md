@@ -7,3 +7,7 @@
 <p align="center">
 ♪　　what　a　waste　of　a　lovely　night　　(｡ᵕ ◞ _◟)
  </p>
+
+<p align="center">
+ <img width="300" height="150" alt="image" src="https://i.postimg.cc/k4981JQF/Untitled678-20260527140309.png" />
+</p>
